@@ -1,0 +1,3 @@
+[submodule "seccamp-b3-fizzbuzz"]
+	path = seccamp-b3-fizzbuzz
+	url = https://github.com/tohutohu/seccamp-b3-fizzbuzz.git
